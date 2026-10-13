@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Lê Chí Hùng — MSV 2A202602863  **Commit:** _(điền hash)_  **Điểm tự động (`make grade`):** 84 / 88 (+4 SLO ẩn do giảng viên chấm)
+**Họ tên / nhóm:** Lê Chí Hùng — MSV 2A202602863  **Commit:** `cc5ee0a32945431b94a2c86378622b2b4a378d3c`  **Điểm tự động (`make grade`):** 84 / 88 (+4 SLO ẩn do giảng viên chấm)
 
 > Số liệu: `reports/gameday/*.json`, `reports/cache/*.json`, `reports/workflows.json`, `reports/slo.json` (seed 25).
 > Chạy lại mọi thí nghiệm: `python scripts/run_experiments.py`.
